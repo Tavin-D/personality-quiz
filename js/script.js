@@ -46,10 +46,11 @@ function displayResult() {
     );
 
     const results = {
-        offense: "Offensive Mastermind: You love creative plays and finding ways to score.",
-        defense: "Defensive Strategist: You focus on stopping opponents and controlling the game.",
-        players: "Players' Coach: You build teamwork, confidence, and strong relationships.",
-        discipline: "Hard-Nosed Disciplinarian: You value preparation, discipline, and toughness."
+    offense: "Offensive Mastermind: You are creative, confident, and always looking for ways to put points on the board. You enjoy taking risks and keeping opponents guessing.",
+    defense: "Defensive Strategist: You are patient, prepared, and focused on shutting down the competition. You believe strong defense creates winning teams.",
+    players: "Players' Coach: You care about teamwork, trust, and building confidence. You know that motivated players perform better together.",
+    discipline: "Hard-Nosed Disciplinarian: You believe preparation, effort, and accountability are the keys to success. You expect your team to work hard and stay focused."
+};
     };
 
     // Display the result
