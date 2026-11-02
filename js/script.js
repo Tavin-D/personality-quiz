@@ -50,7 +50,6 @@ function displayResult() {
     defense: "Defensive Strategist: You are patient, prepared, and focused on shutting down the competition. You believe strong defense creates winning teams.",
     players: "Players' Coach: You care about teamwork, trust, and building confidence. You know that motivated players perform better together.",
     discipline: "Hard-Nosed Disciplinarian: You believe preparation, effort, and accountability are the keys to success. You expect your team to work hard and stay focused."
-};
     };
 
     // Display the result
